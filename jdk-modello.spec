@@ -4,7 +4,7 @@
 #
 Name     : jdk-modello
 Version  : 1.8.3
-Release  : 1
+Release  : 2
 URL      : http://repo2.maven.org/maven2/org/codehaus/modello/modello/1.8.3/modello-1.8.3-source-release.zip
 Source0  : http://repo2.maven.org/maven2/org/codehaus/modello/modello/1.8.3/modello-1.8.3-source-release.zip
 Summary  : No detailed summary available
